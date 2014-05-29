@@ -1,10 +1,8 @@
 h1. mdns -- node.js Service Discovery
 
-THIS IS A FORK OF "agnat/node_mdns":https://github.com/agnat/node_mdns WITH ADDITIONAL PATCHES.
-THE MOMENT agnat/node_mdns BECOMES ACTIVE AGAIN, WE WILL SYNC UP AND REMOVE THIS REPOSITORY.
-
-THE NAME OF THIS FORK ON NPM IS @mdns2@
-
+THIS IS A FORK OF "agnat/node_mdns":https://github.com/agnat/node_mdns
+THAT REPOSITORY WAS FALLING BEHIND, BUT IT'S NOW ACCEPTING PULL REQUESTS AGAIN!
+YOU SHOULD PROBABLY STOP USING THIS FORK. THANK YOU.
 
 |_. Package:       | mdns |
 |_. Description:   | multicast DNS service discovery |
